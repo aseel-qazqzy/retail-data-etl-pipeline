@@ -1,6 +1,6 @@
 # Building-Retail-Data-Pipeline
 
-One sentence: what this project does.
+DataCamp Project: Building a Retail Data Pipeline
 
 ## Setup
 ```bash
